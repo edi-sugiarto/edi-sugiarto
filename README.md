@@ -1,8 +1,8 @@
 ### Hello Coders!
 - 👨‍💼 I'm Edi Sugiarto
+- 📃 My work is being displayed here https://edi-sugiarto.github.io
 - 🌟 I’m interested in Data Science, Machine Learning, and Mathematical Modelling
 - 🚀 I’m open for collaboration on Application Deployment or Modelling related field
-- 📌 You can view my works and achievements at https://github.com/edisugi1996/edisugi1996
 - 🌎 Reach me on www.linkedin.com/in/edi-sugiarto/
 - 📩 You can also email me at edi.sugi1996@gmail.com
 <!--
